@@ -1,3 +1,3 @@
 # GM-email-html
 
-email page for www.greenimagingdirect.net
+email page for https://greenimaging.net/
